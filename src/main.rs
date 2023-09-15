@@ -38,5 +38,6 @@ fn main() {
 
     println!("คะแนนทั้งหมด: {}", total_score);
     println!("เกรด: {}", grade);
+    println!("คะแนนทั้งหมด: {}", total_score);
    
 }
